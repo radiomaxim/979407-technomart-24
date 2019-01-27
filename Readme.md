@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Maksim Polyakov](https://up.htmlacademy.ru/htmlcss/24/user/979407).
-* Наставник: `Неизвестно`.
+* Наставник: [Николай Пойманов](https://htmlacademy.ru/profile/poymanov).
 
 ---
 
